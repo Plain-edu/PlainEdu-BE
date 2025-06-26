@@ -3,7 +3,7 @@ var db = mysql.createConnection({
     host: 'localhost',
     user: 'root',
     password: 'plain',
-    database: 'one'
+    database: 'plain_edu'
 });
 db.connect();
 
